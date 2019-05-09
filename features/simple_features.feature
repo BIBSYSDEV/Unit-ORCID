@@ -15,3 +15,4 @@ Scenario: A user logs into a research-oriented system and is prompted to associa
   And they fill in the details required by ORCID
   Then they receive a success message
   And when they visit their user profile they see the new ORCID association link
+  
