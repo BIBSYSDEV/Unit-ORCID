@@ -5,7 +5,7 @@
 [ORCID Member support senter](https://members.orcid.org/) | 
 [ORCID Example integrations](https://members.orcid.org/resources#sec2)
 
-Unit is a ORCID memeber and will use ORCID to identify researchers in most use cases.
+Unit is a ORCID memeber and will use ORCID to identify researchers in most use cases. The researcher must create or assosiate an existing ORCID to his autentication ID (Feide-ID): [Example using email](https://www.youtube.com/watch?v=wlc4MJvPXGU) 
 
 ## Associate a new ORCID with an existing authority record 
 
